@@ -1,5 +1,5 @@
 [app]
-log_level = 2 
+
 # (str) Title of your application
 title = Question Selector
 
