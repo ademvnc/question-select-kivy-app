@@ -1,0 +1,9 @@
+#:kivy 2.3.0
+
+<QuestionSelector>:
+    orientation: 'vertical'
+    canvas.before:
+        Rectangle:
+            source: 'background_image.png' # Arka plan resminin dosya adı
+            pos: self.pos
+            size: self.size
