@@ -4,7 +4,7 @@
 title = Question Selector
 
 # (str) Package name
-package.name questionselector
+package.name = questionselector
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = dev.tshirtman
